@@ -1,6 +1,10 @@
 {
   "name": "Catppuccin Mocha",
   "is_dark": true,
+  "fonts": {
+    "general": "'JetBrains Mono'",
+    "monospace": "'JetBrains Mono'"
+  },
   "colors": {
     "accent-color": "#b4befe",
     "primary-color": "#b4befe",
